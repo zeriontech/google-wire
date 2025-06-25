@@ -33,8 +33,9 @@ import (
 
 	"github.com/google/subcommands"
 	"github.com/pmezard/go-difflib/difflib"
-	"github.com/zeriontech/google-wire/internal/wire"
 	"golang.org/x/tools/go/types/typeutil"
+
+	"github.com/zeriontech/google-wire/internal/wire"
 )
 
 func main() {
