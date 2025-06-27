@@ -52,7 +52,7 @@ reports and fixes.
 
 ## Community
 
-For questions, please use [GitHub Discussions](https://github.com/zeriontech/google-wire/discussions).
+For questions, please use [Discord](https://zerion.io/discord).
 
 This project is covered by the Go [Code of Conduct][].
 
